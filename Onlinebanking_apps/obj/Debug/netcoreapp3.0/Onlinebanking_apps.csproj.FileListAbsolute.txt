@@ -1,0 +1,11 @@
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\bin\Debug\netcoreapp3.0\Onlinebanking_apps.exe
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\bin\Debug\netcoreapp3.0\Onlinebanking_apps.deps.json
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\bin\Debug\netcoreapp3.0\Onlinebanking_apps.runtimeconfig.json
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\bin\Debug\netcoreapp3.0\Onlinebanking_apps.runtimeconfig.dev.json
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\bin\Debug\netcoreapp3.0\Onlinebanking_apps.dll
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\bin\Debug\netcoreapp3.0\Onlinebanking_apps.pdb
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\obj\Debug\netcoreapp3.0\Onlinebanking_apps.csprojAssemblyReference.cache
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\obj\Debug\netcoreapp3.0\Onlinebanking_apps.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\obj\Debug\netcoreapp3.0\Onlinebanking_apps.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\obj\Debug\netcoreapp3.0\Onlinebanking_apps.dll
+C:\Users\USER\RiderProjects\Onlinebanking_apps\Onlinebanking_apps\obj\Debug\netcoreapp3.0\Onlinebanking_apps.pdb
